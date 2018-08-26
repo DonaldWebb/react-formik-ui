@@ -8,6 +8,9 @@
 
 </div>
 
+# <span style="color:red">Warning !!!</span>
+## <span style="color:red">This Version is not working due to the new Context Api used in Formik that is not reachable</span>
+
 ## Update
 React-Formik-UI v1.x needs at least React 16.3.1 and Formik 1.x
 
